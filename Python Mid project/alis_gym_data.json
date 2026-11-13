@@ -1,0 +1,142 @@
+{
+    "members": [
+        {
+            "member_id": "M-101",
+            "name": "Tanvir Ahmed",
+            "contact": "01711-234567",
+            "plan_tier": "Yearly",
+            "fee_status": "Active",
+            "duration_months": 14
+        },
+        {
+            "member_id": "M-102",
+            "name": "Nusrat Jahan",
+            "contact": "01819-876543",
+            "plan_tier": "Quarterly",
+            "fee_status": "Active",
+            "duration_months": 6
+        },
+        {
+            "member_id": "M-103",
+            "name": "Rafiqul Islam",
+            "contact": "01912-345678",
+            "plan_tier": "Monthly",
+            "fee_status": "Overdue",
+            "duration_months": 2
+        },
+        {
+            "member_id": "M-104",
+            "name": "Sadia Rahman",
+            "contact": "01675-112233",
+            "plan_tier": "Yearly",
+            "fee_status": "Active",
+            "duration_months": 18
+        },
+        {
+            "member_id": "M-105",
+            "name": "Mehedi Hasan",
+            "contact": "01552-998877",
+            "plan_tier": "Monthly",
+            "fee_status": "Active",
+            "duration_months": 4
+        },
+        {
+            "member_id": "M-106",
+            "name": "Farhana Yasmin",
+            "contact": "01722-445566",
+            "plan_tier": "Quarterly",
+            "fee_status": "Overdue",
+            "duration_months": 3
+        },
+        {
+            "member_id": "M-107",
+            "name": "Kamrul Hasan",
+            "contact": "01833-667788",
+            "plan_tier": "Monthly",
+            "fee_status": "Active",
+            "duration_months": 1
+        },
+        {
+            "member_id": "M-108",
+            "name": "Tasnim Zara",
+            "contact": "01944-556677",
+            "plan_tier": "Yearly",
+            "fee_status": "Active",
+            "duration_months": 12
+        },
+        {
+            "member_id": "M-109",
+            "name": "Ashraful Alam",
+            "contact": "01755-889900",
+            "plan_tier": "Quarterly",
+            "fee_status": "Active",
+            "duration_months": 9
+        },
+        {
+            "member_id": "M-110",
+            "name": "Mahmudul Haque",
+            "contact": "01611-223344",
+            "plan_tier": "Monthly",
+            "fee_status": "Overdue",
+            "duration_months": 5
+        },
+        {
+            "member_id": "M-121",
+            "name": "Md.Mustakim Ali",
+            "contact": "01632553696",
+            "plan_tier": "Monthly",
+            "fee_status": "Active",
+            "duration_months": 2
+        }
+    ],
+    "supplements": [
+        {
+            "item_id": "S-201",
+            "item_name": "Gold Standard Whey 5lbs",
+            "brand": "Optimum Nutr.",
+            "stock_qty": 12,
+            "unit_price_bdt": 9500.0,
+            "units_sold": 18
+        },
+        {
+            "item_id": "S-202",
+            "item_name": "Micronized Creatine 300g",
+            "brand": "MuscleTech",
+            "stock_qty": 25,
+            "unit_price_bdt": 2400.0,
+            "units_sold": 34
+        },
+        {
+            "item_id": "S-203",
+            "item_name": "ISO 100 Hydrolyzed 5lbs",
+            "brand": "Dymatize",
+            "stock_qty": 8,
+            "unit_price_bdt": 11200.0,
+            "units_sold": 9
+        },
+        {
+            "item_id": "S-204",
+            "item_name": "BCAA Energy Powder 30sv",
+            "brand": "EVLution",
+            "stock_qty": 15,
+            "unit_price_bdt": 2800.0,
+            "units_sold": 21
+        },
+        {
+            "item_id": "S-205",
+            "item_name": "Serious Mass Gainer 12lbs",
+            "brand": "Optimum Nutr.",
+            "stock_qty": 10,
+            "unit_price_bdt": 7800.0,
+            "units_sold": 14
+        },
+        {
+            "item_id": "S-206",
+            "item_name": "Omega-3 Fish Oil 100ct",
+            "brand": "Now Foods",
+            "stock_qty": 30,
+            "unit_price_bdt": 1350.0,
+            "units_sold": 40
+        }
+    ]
+}
